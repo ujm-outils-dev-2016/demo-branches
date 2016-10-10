@@ -1,4 +1,6 @@
-# demo-branches : L3 informatique UJM (2016-2017)
+demo-branches : L3 informatique UJM (2016-2017)
+====
+
 * BELARDI Luc
 * HODEMON Nicolas
 * AYADA Ahmad
@@ -35,4 +37,4 @@
 * LOEW Benoit
 * PAYOT Baltazar
 * SOFONEA Axel
-* LHOSTE Mickaël
+* [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
