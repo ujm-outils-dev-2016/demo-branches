@@ -13,7 +13,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * POZZERA Noemie
 * COLIN Clement
 * MALCHERE Steve
-* GRANJON Thomas
+* [GRANJON Thomas](students/TGranjon.md "Thomas GRANJON")
 * BRUYERE Dimitri
 * PEURIERE Romain
 * DUBOUCHET Lucas
