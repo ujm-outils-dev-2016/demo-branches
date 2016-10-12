@@ -2,7 +2,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 
 * BELARDI Luc
 * HODEMON Nicolas
-* AYADA Ahmad
+* [AYADA Ahmad] (students/Ahmad.md "Ahmad AYADA, Testing modif...")
 * BONIZEC Emilie
 * TISSIER Emeric
 * DUVERGER Remy
@@ -14,7 +14,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * COLIN Clement
 * MALCHERE Steve
 * GRANJON Thomas
-* BRUYERE Dimitri
+* [BRUYERE Dimitri](students/dbruyere.md "DimitriPotter pour les intimes")
 * PEURIERE Romain
 * DUBOUCHET Lucas
 * MARKOVIC Adam
