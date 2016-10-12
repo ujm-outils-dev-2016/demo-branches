@@ -1,16 +1,15 @@
 demo-branches : L3 informatique UJM (2016-2017)
-====
 
 * BELARDI Luc
 * HODEMON Nicolas
-* AYADA Ahmad
+* [AYADA Ahmad] (students/Ahmad.md "Ahmad AYADA, Testing modif...")
 * BONIZEC Emilie
 * TISSIER Emeric
 * DUVERGER Remy
 * RIOTTE Francois
 * AKPO Latifa
 * BENNACER Kamil
-* JEAMME Christopher
+* [JEAMME Christopher](students/christopher_jeamme.md "La boule magique pour les intimes...")
 * POZZERA Noemie
 * COLIN Clement
 * MALCHERE Steve
@@ -21,7 +20,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * MARKOVIC Adam
 * NIANFO Souleymane
 * HEGAZI Mohamed
-* VIALLARD Paul
+* [VIALLARD Paul](students/paulviallard.md "VIALLARD Paul")
 * KHAMED Smail
 * TOUAIBIA Mohamed
 * THIOLLIERE Hugo
@@ -30,7 +29,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * BELAIHOU Mohamed
 * AMELLAL Amal
 * DASSE GOUOUI Eric
-* PELEGRIN Romain
+* [PELEGRIN Romain](students/pelegrin.md "Romain PELEGRIN, tu peux pas test")
 * RIGHI Sarah
 * SIRACUSA Remi
 * UNG Davy
@@ -38,3 +37,4 @@ demo-branches : L3 informatique UJM (2016-2017)
 * PAYOT Baltazar
 * SOFONEA Axel
 * [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
+* [ROHAUT Benjamin] (students/rohautb.md "Zoxk Killachine")
