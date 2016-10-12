@@ -30,7 +30,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * BELAIHOU Mohamed
 * AMELLAL Amal
 * DASSE GOUOUI Eric
-* PELEGRIN Romain
+* [PELEGRIN Romain](students/pelegrin.md "Romain PELEGRIN, tu peux pas test")
 * RIGHI Sarah
 * SIRACUSA Remi
 * UNG Davy
@@ -38,3 +38,4 @@ demo-branches : L3 informatique UJM (2016-2017)
 * PAYOT Baltazar
 * SOFONEA Axel
 * [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
+
