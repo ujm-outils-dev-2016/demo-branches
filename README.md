@@ -21,7 +21,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * MARKOVIC Adam
 * NIANFO Souleymane
 * HEGAZI Mohamed
-* VIALLARD Paul
+* [VIALLARD Paul](students/paulviallard.md "VIALLARD Paul")
 * KHAMED Smail
 * TOUAIBIA Mohamed
 * THIOLLIERE Hugo
@@ -37,4 +37,5 @@ demo-branches : L3 informatique UJM (2016-2017)
 * LOEW Benoit
 * PAYOT Baltazar
 * SOFONEA Axel
+* ROHAUT Benjamin (students/rohautb.md "Zoxk Killachine")
 * [LHOSTE Mickaël](students/mlhoste.md "Mickaël LHOSTE, mlhoste pour les intimes...")
