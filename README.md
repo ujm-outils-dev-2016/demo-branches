@@ -15,7 +15,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * COLIN Clement
 * MALCHERE Steve
 * GRANJON Thomas
-* BRUYERE Dimitri
+* [BRUYERE Dimitri](students/dbruyere.md "DimitriPotter pour les intimes")
 * PEURIERE Romain
 * DUBOUCHET Lucas
 * MARKOVIC Adam
