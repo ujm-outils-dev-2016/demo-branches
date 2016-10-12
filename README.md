@@ -10,7 +10,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * RIOTTE Francois
 * AKPO Latifa
 * BENNACER Kamil
-* JEAMME Christopher
+* [JEAMME Christopher](students/christopher_jeamme.md "La boule magique pour les intimes...")
 * POZZERA Noemie
 * COLIN Clement
 * MALCHERE Steve
