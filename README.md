@@ -24,7 +24,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * KHAMED Smail
 * TOUAIBIA Mohamed
 * THIOLLIERE Hugo
-* [VIDOT Eric](student/guillaumevidot "La Réunion lé la !")
+* [VIDOT Eric](student/guillaumevidot.md "La Réunion lé la !")
 * LONG Jordan
 * BELAIHOU Mohamed
 * AMELLAL Amal
