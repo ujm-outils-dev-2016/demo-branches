@@ -29,7 +29,7 @@ demo-branches : L3 informatique UJM (2016-2017)
 * LONG Jordan
 * BELAIHOU Mohamed
 * AMELLAL Amal
-* DASSE GOUOUI Eric
+* [DASSE GOUOUI Eric](students/eric.md "Eric Dasse, Ricou pour les proches...")
 * PELEGRIN Romain
 * RIGHI Sarah
 * SIRACUSA Remi

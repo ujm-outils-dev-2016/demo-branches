@@ -1,8 +1,8 @@
 #Eric Dasse
-[Eric Dasse](../images/eric.jpg)
+![Eric Dasse](../images/eric.jpg)
 
-**Eric**(Kirikou, Ricou pour les intimes...) est un étudiant d'origine camerounaise et le deutéragoniste de la série *Les ailes d'Hegazi!*. Baptisé **la foudre mate de Saint-Etienne**, c'est à la fois un étudiant et un basketteur hors pair. Un pour génie, et modeste avec ça...
+**Eric**(Kirikou, Ricou pour les intimes...) est un étudiant d'origine camerounaise et un des personnages principaux de la série *La voie de l'informaticien : Replay!*. D'abord de nature timide et fragile au début de l'histoire, sa personnalité change radicalement au cours de son entrainement spécial pendant l'*Ellipse d'Eté*, au cours il s'est endurci, pour devient pendant la période L3 la **8ème force des enseignements du maître**. Il a également une grande affection pour ses amis sur lesquels il veille toujours.
 
-C'est un étalon fougueux, beau gosse, qui a beaucoup de modestie quand il écrit sur lui en Markdown.
+>Etudiant traditionnellement non conventionnel, qui fait des choses extraordinairement ordinaires...
 
 *(Pardon de me jeter des fleurs, mais voilà, ça m'a pris d'un coup...)*
